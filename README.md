@@ -1,6 +1,6 @@
-# pdf2text-OCR
+# sane-cyrillic-keyboard-layout
 
-Providing sane phonetic cyrillic keyboard layout 
+Providing sane phonetic cyrillic keyboard layout for the Linux terminal
 
 **Usage** 
 
