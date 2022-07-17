@@ -2,6 +2,13 @@
 
 Providing sane phonetic cyrillic keyboard layout for the Linux terminal
 
+**Synopsis** 
+
+  *  use v for Cyrillic в 
+  *  use ' for Cyrillic ь 
+  *  use ; for Cyrillic ж 
+
+
 **Usage** 
 
 ```bash
